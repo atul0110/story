@@ -1,0 +1,4 @@
+secrets.txt
+
+# single line comment.
+# *.txt  ignore all file with .txt extension. 
